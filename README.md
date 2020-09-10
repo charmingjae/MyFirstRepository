@@ -1,2 +1,3 @@
 # MyFirstRepository
-Tutorial Repository
+
+My name is Minjae
