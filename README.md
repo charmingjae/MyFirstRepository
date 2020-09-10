@@ -1,3 +1,3 @@
-# MyFirstRepository
+# 하드웨어
 
-[naver](https://naver.com)
+[rasberrypi](rpi.md)
