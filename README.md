@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-My name is Minjae
+[naver](https://naver.com)
